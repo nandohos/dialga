@@ -16,7 +16,7 @@
 
 [ ] **Item Queue**
 
-   - Ability to add items to the queue to be processed
+- Ability to add items to the queue to be processed
 
 [ ] **Job Storage**
 
